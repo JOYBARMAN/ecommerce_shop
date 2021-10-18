@@ -25,7 +25,9 @@ SECRET_KEY = '$x=j!c=!5c(6lr1w%#w66c@x!f%1llh+54j%m-ts8o27w%ert&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'ecommerce1121.herokuapp.com'
+]
 
 
 # Application definition
